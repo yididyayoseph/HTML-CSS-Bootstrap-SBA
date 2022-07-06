@@ -7,7 +7,7 @@ table, th, td {
   }
 
   .row {
-    border: solid 1px;
+    border: blue solid 1px;
   }
 
   .col {
