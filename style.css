@@ -6,11 +6,24 @@ table, th, td {
     border: 1px solid;
   }
 
-  .row {
-    border: blue solid 1px;
+table {
+    width: 100%;
   }
 
-  .col {
+.container {
+    width: 100%;
+     
+}
+
+.row {
+    border: blue solid 1px;
+    width: 100%;
+    
+  }
+
+.col {
     border: blue solid 25px;
+    height: 100px;
+    
   }
 
