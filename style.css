@@ -1,0 +1,16 @@
+.nav-brand {
+    font-weight: bold;
+}
+
+table, th, td {
+    border: 1px solid;
+  }
+
+  .row {
+    border: solid 1px;
+  }
+
+  .col {
+    border: blue solid 25px;
+  }
+
